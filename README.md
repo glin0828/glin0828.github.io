@@ -17,3 +17,8 @@ _B.A. Politics and Economy_ **Waseda University** 🇯🇵
 ### Contacts
 - Email: junrong.lin@sciencespo.fr
 - LinkedIn: [Jun-Rong (Grace) Lin](https://www.linkedin.com/in/grace-lin-8691aa143/)
+
+### Projects & Publications
+- Geographic Information System: [Maps and Politics](https://drive.google.com/file/d/1f7WXrc_fpjkx1QIROHfmTx3q5rI_Tvu5/view?usp=sharing)
+- Agence française de développement: [Fiscal policies and local development](https://drive.google.com/file/d/1y4T_o-xe9sUgOHAilzp2uuLbCihoxcoy/view?usp=sharing)
+- German Institute of Development and Sustainability: [Implications for international development cooperation](https://www.idos-research.de/en/discussion-paper/article/trumps-assault-on-foreign-aid-implications-for-international-development-cooperation/)
