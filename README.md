@@ -54,7 +54,7 @@
 - *R* Statistical computation
 - *Google Earth Engine* Satellite imagery
 
-**🔹 Computer Programmer – NMinistry of Interior of Taiwan**  
+**🔹 Computer Programmer – Ministry of Interior of Taiwan**  
 *Jul 2023 – Aug 2023*  
 - *ArcGIS* Digital transformation for public administration
 - *BIM* Building Information Modelling
@@ -70,7 +70,7 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: [junrong.lin@sciencespo.fr]  
+- ✉️ Email: [junrong.lin@sciencespo.fr](junrong.lin@sciencespo.fr)
 - 💼 LinkedIn: [Grace (Jun-Rong) Lin](https://www.linkedin.com/in/grace-lin-8691aa143/)
 
 ---
