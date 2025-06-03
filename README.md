@@ -72,6 +72,7 @@
 
 - ✉️ Email: [junrong.lin@sciencespo.fr](junrong.lin@sciencespo.fr)
 - 💼 LinkedIn: [Grace (Jun-Rong) Lin](https://www.linkedin.com/in/grace-lin-8691aa143/)
+- 💻 Github: [My Github Profile](https://github.com/glin0828)
 
 ---
 
